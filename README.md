@@ -1,2 +1,2 @@
-# Softuni
-Softuni education
+# SoftUni
+SoftUni education
