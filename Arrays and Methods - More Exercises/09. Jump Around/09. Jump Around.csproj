@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{57B2F5BA-0353-46D2-BC9C-589BA7C2C679}</ProjectGuid>
+    <ProjectGuid>{6B22E8C9-7FD1-4F64-8F99-54391A420599}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_03.Safe_Manipulation</RootNamespace>
-    <AssemblyName>_03.Safe_Manipulation</AssemblyName>
+    <RootNamespace>_09.Jump_Around</RootNamespace>
+    <AssemblyName>_09.Jump_Around</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="SafeManipulation.cs" />
+    <Compile Include="JumpAround.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

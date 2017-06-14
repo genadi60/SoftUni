@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{57B2F5BA-0353-46D2-BC9C-589BA7C2C679}</ProjectGuid>
+    <ProjectGuid>{CAC9B722-6A8B-4707-A039-2EC3A781C344}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_03.Safe_Manipulation</RootNamespace>
-    <AssemblyName>_03.Safe_Manipulation</AssemblyName>
+    <RootNamespace>_02.Append_Lists</RootNamespace>
+    <AssemblyName>_02.Append_Lists</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="SafeManipulation.cs" />
+    <Compile Include="AppendLists.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

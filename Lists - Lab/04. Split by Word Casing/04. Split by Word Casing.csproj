@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{57B2F5BA-0353-46D2-BC9C-589BA7C2C679}</ProjectGuid>
+    <ProjectGuid>{5DCBA44A-F4D0-41DA-8CC4-1B8CD6AEE2A2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_03.Safe_Manipulation</RootNamespace>
-    <AssemblyName>_03.Safe_Manipulation</AssemblyName>
+    <RootNamespace>_04.Split_by_Word_Casing</RootNamespace>
+    <AssemblyName>_04.Split_by_Word_Casing</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="SafeManipulation.cs" />
+    <Compile Include="SplitByWordCasing.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

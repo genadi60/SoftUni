@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{57B2F5BA-0353-46D2-BC9C-589BA7C2C679}</ProjectGuid>
+    <ProjectGuid>{AFFDDE22-A8AE-4414-852A-75572B62F9D7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_03.Safe_Manipulation</RootNamespace>
-    <AssemblyName>_03.Safe_Manipulation</AssemblyName>
+    <RootNamespace>_06.Heists</RootNamespace>
+    <AssemblyName>_06.Heists</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="SafeManipulation.cs" />
+    <Compile Include="Heists.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

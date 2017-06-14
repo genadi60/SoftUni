@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("03. Safe Manipulation")]
+[assembly: AssemblyTitle("06. Square Numbers")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("03. Safe Manipulation")]
+[assembly: AssemblyProduct("06. Square Numbers")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("57b2f5ba-0353-46d2-bc9c-589ba7c2c679")]
+[assembly: Guid("a08111ac-3d72-4de7-968b-88223d41695b")]
 
 // Version information for an assembly consists of the following four values:
 //

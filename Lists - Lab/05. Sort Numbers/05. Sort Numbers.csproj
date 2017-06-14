@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{57B2F5BA-0353-46D2-BC9C-589BA7C2C679}</ProjectGuid>
+    <ProjectGuid>{6E8EEDFE-C90F-4519-BF93-380DCC83002F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_03.Safe_Manipulation</RootNamespace>
-    <AssemblyName>_03.Safe_Manipulation</AssemblyName>
+    <RootNamespace>_05.Sort_Numbers</RootNamespace>
+    <AssemblyName>_05.Sort_Numbers</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="SafeManipulation.cs" />
+    <Compile Include="SortNumbers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
